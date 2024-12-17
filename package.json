@@ -4,6 +4,7 @@
   "description": "Real Time Flocked Parts Production Tracking System",
   "main": "app.py",
   "dependencies": {
-    "chart.js": "^4.4.1"
+    "chart.js": "^4.4.1",
+    "flask": "^0.2.10"
   }
 }
